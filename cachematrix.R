@@ -2,7 +2,7 @@
 ## which is also stored in the cache.
 ##
 ## The makeCacheMatrix() is an objective function which initializes the cached
-## matrix by either by passing the matrix via the function argument or by
+## matrix by either passing the matrix via the function argument or by
 ## calling the setmatrix() function within makeCacheMatrix().
 ##
 ## The getMatrix() function returns the original matrix.
